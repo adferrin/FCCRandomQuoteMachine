@@ -1,1 +1,1 @@
-## This is a [Random Quote Machine](https://adferrin.github.io/FCCRandomQuoteMachine/)for Free Code Camp
+## This is a [Random Quote Machine](https://adferrin.github.io/FCCRandomQuoteMachine/) for Free Code Camp
